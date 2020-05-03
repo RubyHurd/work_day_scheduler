@@ -1,0 +1,77 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 1;
+    background-color: #67f1c8;
+  }
+  
+  textarea{
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 10px;
+  }
+  
+  .jumbotron {
+    text-align: center;
+    background-color: #20c997;
+    color:  whitesmoke;
+    border-radius: 0;
+    border-bottom: 10px color whitesmoke;
+  }
+  
+  .description{
+    white-space: pre-wrap;
+  }
+  
+  .time-block{
+    text-align: center;
+    border-radius: 15px;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid white;
+  }
+  
+  .hour {
+    background-color: #70e28a;
+    color: #000000;
+    border-top: 1px dashed #000000;
+  }
+  
+  .past {
+    background-color: #e83e8c;
+    color: whitesmoke;
+  }
+  
+  .present {
+    background-color: #e6828c;
+    color: whitesmoke;
+  }
+  
+  .future {
+    background-color: #efc5d8;
+    color: whitesmoke;
+  }
+  
+  .saveBtn {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color:#20c997;
+    color: white;
+ 
+  }
+  
+  .hover {
+    background-color: rgb(60, 96, 121);
+  }
+
+  .fas {
+      align-items: center
+  }
+  
